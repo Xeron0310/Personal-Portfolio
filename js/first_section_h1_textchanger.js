@@ -5,9 +5,5 @@ h1.addEventListener('mouseover', () => {
 });
 
 h1.addEventListener('mouseout', () => {
-    h1.textContent = 'HELLO WORLD!';
-});
-
-h1.addEventListener('onclick', () => {
-    h1.textContent = "THE PORTPOLIO";
+    h1.textContent = 'MY PORTFOLIO';
 });
