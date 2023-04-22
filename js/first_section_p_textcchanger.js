@@ -1,7 +1,7 @@
 const p = document.querySelector('.first_section_div_p');
 
-p.addEventListener('mouseover', () => {
-    p.textContent = "창조자";
+p.addEventListener('click', () => {
+    p.textContent = "KANG EUN CHAN";
 });
 
 p.addEventListener('mouseout', () => {
